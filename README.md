@@ -27,16 +27,14 @@
   
   
   ##
- 
+ <br> 
   
 <div style="display: inline_block" align="center"> 
   <a href = "mailto:lucaslopesportella23@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="mailto:lucaslopesportella18@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/lucas-lopes-portella/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
   <a  href="https://www.instagram.com/luccaas_lopes_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>	
- 
   
- 
 </div>
 
 

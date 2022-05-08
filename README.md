@@ -1,4 +1,4 @@
-## Olá mundo, meu nome é Lucas Lopes
+## Olá, meu nome é Lucas Lopes
 
 - Realizando Curso Técnico em Informática Para Internet
 - Participando do Bootcamp **Java Full Stack** pela **SoulCode Academy**

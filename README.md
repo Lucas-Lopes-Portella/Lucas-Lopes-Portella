@@ -40,14 +40,21 @@
 
 
 <!---
+### Referências:
+- https://www.youtube.com/watch?v=TsaLQAetPLU (Como personalizar o seu perfil no Github (Readme))
+- https://github.com/anuraghazra/github-readme-stats#customization (estrutura readme)
+- https://www.markdownguide.org/basic-syntax/ (Sintaxe básica Markdown)
+- https://github.com/jmnote/z-icons (ícones e logos)
+- https://dev.to/envoy_/150-badges-for-github-pnk (ícones e logos)
+- https://angular.io/presskit#full-color-logo (logo Angular)
+- https://spring.io/projects/spring-boot (logo SPRING)
+- https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png (logo SQL)
+- https://logospng.org/logo-microsoft-outlook/ (logo Outlook)
+
+
+
 Lucas-Lopes-Portella/Lucas-Lopes-Portella is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 
-
-- 👋 Hi, I’m @Lucas-Lopes-Portella
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 --->

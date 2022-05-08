@@ -22,7 +22,8 @@
   <img align="center" alt="Angular" height="30" width="40" src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
   <img align="center" alt="SPRING" height="30" width="40" src="https://spring.io/images/spring-initializr-4291cc0115eb104348717b82161a81de.svg">  
-  <img align="center" alt="SQL" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png">   
+  <img align="center" alt="SQL" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png">
+  <img align="center" alt="Git" height="30" width="40" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
 </div>
   
   
@@ -50,7 +51,7 @@
 - https://spring.io/projects/spring-boot (logo SPRING)
 - https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png (logo SQL)
 - https://logospng.org/logo-microsoft-outlook/ (logo Outlook)
-
+- https://git-scm.com/downloads/logos (logo Git)
 
 
 Lucas-Lopes-Portella/Lucas-Lopes-Portella is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

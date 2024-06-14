@@ -1,8 +1,5 @@
 ## Olá, meu nome é Lucas Lopes
 
-- Realizando Curso Técnico em Informática Para Internet
-- Cursando Tecnólogo em Sistemas da Computação (UFF)
-
 <br>
 
 <div align="center">
